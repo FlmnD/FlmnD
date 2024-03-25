@@ -1,16 +1,23 @@
 ### Hi there 👋
+### I am Dhyan, a highschool student.
 
-
-**FlmnD/FlmnD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a mental health snd wellness app using flutter on the frontend for cross-platform mobile development and FastAPI with python and PostgreSQL for the backend.
+- 🔭 I’m currently working on a mental health and wellness app using Flutter on the frontend for cross-platform mobile app development and FastAPI with python and PostgreSQL for the backend.
 - 🌱 I’m currently learning Unity, Raylib, and SDL2
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Wordscript: An esoteric programming language written in java
+- 😄 Pronouns: He/him
+- 📫 How to reach me: email dhvy8221@gmail.com
+- 🔎 Currently looking for internship opportunities.
+
+### 🧠 Skills
+- C
+- Flutter
+- Python
+- FastAPI
+- PostgreSQL
+- Java
+
+<!--
+- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
